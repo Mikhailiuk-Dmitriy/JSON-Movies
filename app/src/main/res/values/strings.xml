@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="button_search">search</string>
+    <string name="edit_search_hint">Enter the title of the movie</string>
+</resources>
